@@ -39,7 +39,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/PpuDQPZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Airplane mode saved tweets:
 <img src='https://i.imgur.com/xFDRAgo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
